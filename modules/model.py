@@ -4,6 +4,7 @@ from tensorflow.keras import layers
 import tensorflow_hub as hub
 from tfx.components.trainer.fn_args_utils import FnArgs
 import tensorflow_text
+import numpy
 from typing import Dict, Text
 
 
