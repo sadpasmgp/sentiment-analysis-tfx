@@ -12,7 +12,7 @@ env:
             _PROJECT=${{ secrets.GCP_PROJECT_ID }},\
             _REGION=us-central1,\
             _PIPELINE_NAME=sentiment-analysis-tfx,\
-            _REPO_URL=https://github.com/arturlunardi/sentiment-analysis-tfx,\
+            _REPO_URL=https://github.com/sadpasmgp/sentiment-analysis-tfx,\
             _BRANCH=master,\
             "    
 jobs:
