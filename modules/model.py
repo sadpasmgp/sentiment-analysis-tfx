@@ -5,7 +5,7 @@ import tensorflow_hub as hub
 from tfx.components.trainer.fn_args_utils import FnArgs
 import tensorflow_text
 from typing import Dict, Text
-import os
+import sys
 
 
 _N_EPOCHS = 30
