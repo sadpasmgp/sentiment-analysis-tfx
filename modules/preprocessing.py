@@ -1,7 +1,6 @@
 import tensorflow as tf
 import os
 import sys
-import sys
 import nltk
 from nltk.corpus import stopwords
 from typing import Text
